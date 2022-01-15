@@ -381,6 +381,9 @@ p{
    justify-content: space-between;
    width: 100%;
 }
+#solo_card{
+   justify-content: center;
+}
 .card{
    width: 90%;
    width: 242px;
